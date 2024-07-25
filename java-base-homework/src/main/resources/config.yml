@@ -1,0 +1,7 @@
+# 配置服务器端口
+server:
+  port: 8080
+# 配置文件默认存放目录
+files:
+  clientDirectory: client_files/
+  serverDirectory: server_files/

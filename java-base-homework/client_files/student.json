@@ -1,0 +1,16 @@
+{
+  "studentList": [{"studentId":"1", "name":"张三", "tel":"124124", "email":"txq512@sina.com"},
+    {
+      "studentId":"2",
+      "name":"李四",
+      "tel":"12412424",
+      "email":"txq52312@sina.com"
+    },
+    {
+      "studentId":"3",
+      "name":"王五",
+      "tel":"124214124",
+      "email":"txq32512@sina.com"
+    }
+  ]
+}
